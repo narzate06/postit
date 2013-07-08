@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4c4e370-ae3c-4c21-bf67-89f8ed012287" name="Default" comment="first commit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/user.rb" />
+    <list default="true" id="a4c4e370-ae3c-4c21-bf67-89f8ed012287" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="postit.iws" />
@@ -14,7 +13,7 @@
     <file path="$PROJECT_DIR$/config/initializers/wrap_parameters.rb" changelist="a4c4e370-ae3c-4c21-bf67-89f8ed012287" time="1373048045392" ignored="false" />
     <file path="$PROJECT_DIR$/config/initializers/filter_parameter_logging.rb" changelist="a4c4e370-ae3c-4c21-bf67-89f8ed012287" time="1373048045392" ignored="false" />
     <file path="$PROJECT_DIR$/config/initializers/secret_token.rb" changelist="a4c4e370-ae3c-4c21-bf67-89f8ed012287" time="1373048045392" ignored="false" />
-    <file path="/Dummy.txt" changelist="a4c4e370-ae3c-4c21-bf67-89f8ed012287" time="1373317519076" ignored="false" />
+    <file path="/Dummy.txt" changelist="a4c4e370-ae3c-4c21-bf67-89f8ed012287" time="1373317645027" ignored="false" />
     <file path="$PROJECT_DIR$/../myrailsapp/config/routes.rb" changelist="a4c4e370-ae3c-4c21-bf67-89f8ed012287" time="1373050942734" ignored="false" />
     <file path="$PROJECT_DIR$/../myrailsapp/db/schema.rb" changelist="a4c4e370-ae3c-4c21-bf67-89f8ed012287" time="1373058809427" ignored="false" />
     <file path="/routes.rb" changelist="a4c4e370-ae3c-4c21-bf67-89f8ed012287" time="1373050941543" ignored="false" />
@@ -579,7 +578,11 @@
       <created>1373317529163</created>
       <updated>1373317529163</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first commit">
+      <created>1373317654732</created>
+      <updated>1373317654732</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
